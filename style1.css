@@ -1,0 +1,17 @@
+
+
+p{
+    width: 50%;
+    background: #FFF;
+    margin: 30px;
+    border: 30px solid #808080;
+    padding: 30px;
+    font-family: arial;
+    font-size: 2em;
+    color: #000;
+}
+
+section {
+  border-top: 1px solid #5BC0BE;
+  padding: 20px 0 0;
+}
