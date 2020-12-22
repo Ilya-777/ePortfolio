@@ -9,7 +9,7 @@ p {
 .clear {clear: both;}
 
  #cv {
-   width: 90%;
+    width: 90%;
    max-width: 800px;
    background: #202e32;
    margin: 30px auto;
@@ -66,9 +66,9 @@ p {
 
 #contactDetails ul li {
   margin-bottom: 3px;
-  color: #0B132B
+  color: #0B132B;
 
-section {
+section: {
  border-top: 1px solid #5BC0BE;
  padding: 20px 0 0;
 }
@@ -85,7 +85,7 @@ section:last-child {
   font-family: 'Rokkitt', Helvetica, arial, sans-serif;
   font-style: italic;
   font-size: 1.5em;
-  color: #EAEAEA
+  color: #EAEAEA;
 }
 
 
@@ -105,7 +105,7 @@ section:last-child {
 .sectionContent img {
   width: 75%;
   height:auto;
-  border: 2px solid #50AAA9
+  border: 2px solid #50AAA9;
 }
 
 .keySkills {
