@@ -1,15 +1,18 @@
 
-
-p{
-    width: 50%;
-    background: #FFF;
-    margin: 30px;
-    border: 30px solid #808080;
-    padding: 30px;
-    font-family: arial;
-    font-size: 2em;
-    color: #000;
+ html, body {background: #0B132B; font-family: 'lato', helvetica, arial, sans-serif; font-size: 16px; color: #50AAA9;}
+p {
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+  color: #709CD1;
 }
+
+  #cv {
+    width: 90%;
+    max-width: 800px;
+    background: #212230;
+    margin: 30px auto;
+  }
 
 section {
   border-top: 1px solid #5BC0BE;
